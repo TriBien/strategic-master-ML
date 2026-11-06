@@ -1,4 +1,4 @@
-# strategic-master-AI
+# strategic-master-ML
 Learning AI in a strategic way
 Prioritized AI/ML Mastery Roadmap
 
